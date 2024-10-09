@@ -3,6 +3,11 @@
 Este repositório foi criado como parte da **Imersão Dev com Google Gemini**, um evento oferecido pela Alura para explorar novas tecnologias de desenvolvimento web. Aqui, você encontrará os projetos e desafios que desenvolvi durante a imersão, com foco em aprender, experimentar e criar soluções dinâmicas e interativas.
 
 
+![image](https://github.com/user-attachments/assets/98190110-8bea-4db0-a8f3-bc094f9c23e8)
+
+
+
+
 ## 🚀 Tecnologias Utilizadas
 
 - **HTML5**
@@ -22,3 +27,6 @@ Ao longo dessa jornada, eu pude:
 - Melhorar minhas habilidades com JavaScript, principalmente em manipulação de DOM.
 - Criar interfaces responsivas e acessíveis.
 - Colaborar com uma comunidade de desenvolvedores que está sempre em crescimento.
+
+---
+*Siga-me no LinkedIn para mais atualizações sobre meus projetos:* [Meu LinkedIn](https://www.linkedin.com/in/%C3%A1gatha-ferreira-de-siqueira-6993912b2/)
